@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdint.h>
+
+#include "bitOp.h"
 
 static uint8_t output[8], input[8];
 
